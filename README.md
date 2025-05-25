@@ -66,7 +66,7 @@
 
 - 📧 Email: pmihirangaa321@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/p-m-t-vithanage-b75662312
-- 🧪 Portfolio: 
+- 🧪 Portfolio: https://pmtvithanage.github.io/Portfolio1/
 
 ---
 
