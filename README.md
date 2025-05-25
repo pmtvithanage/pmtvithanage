@@ -1,5 +1,12 @@
 <!-- Profile Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:43e97b,100:38f9d7&height=250&section=header&text=P.M.T.%20Vithanage&fontSize=50&fontColor=ffffff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:43e97b,100:38f9d7&height=250&section=header&text=P.M.T.%20Vithanage&fontSize=50&fontColor=ffffff&animation=twinkling)
+
+<p align="left">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=500&color=00FFB2&center=false&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Frontend+Developer;Backend+Developer;Full-Stack+Developer;Always+Learning+New+Tech" 
+    alt="Typing SVG" 
+  />
+</p>
 
 ## 👋 Hello, I'm P.M.T. Vithanage
 
@@ -69,3 +76,4 @@
   Made by P.M.T. Vithanage  
   © 2025 | All Rights Reserved
 </p>
+
