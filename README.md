@@ -18,6 +18,10 @@
 
 ## 🧠 Tech Stack
 
+<table>
+  <tr>
+    <td>
+      
 ### 🖥️ Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -32,6 +36,12 @@
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+    </td>
+    <td>
+      <img src="image.gif" width="120px" alt="Tech Stack Image" /><br>
+    </td>
+  </tr>
+</table>
 
 ---
 
