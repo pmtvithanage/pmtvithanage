@@ -38,7 +38,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
     </td>
     <td>
-      <img src="image.gif" width="120px" alt="Tech Stack Image" /><br>
+      <img src="web-development.gif" width="300px"  alt="Tech Stack Image" /><br>
     </td>
   </tr>
 </table>
