@@ -84,7 +84,7 @@
 ---
 
 <p align="center">
-  Made by P.M.T. Vithanage  
+  P.M.T. Vithanage  
   © 2025 | All Rights Reserved
 </p>
 
