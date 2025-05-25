@@ -1,5 +1,12 @@
 <!-- Profile Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:43e97b,100:38f9d7&height=250&section=header&text=P.M.T.%20Vithanage&fontSize=50&fontColor=ffffff&animation=twinkling)
+<div>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:43e97b,100:38f9d7&height=250&section=header&text=P.M.T.%20Vithanage&fontSize=50&fontColor=ffffff&animation=twinkling" 
+    alt="Header"
+    style="width: 100%; display: block;" 
+  />
+</div>
+
 
 <p align="left">
   <img 
@@ -79,6 +86,7 @@
 - 📚 Constantly exploring new tools and development trends.
 
 ---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pmtvithanage/pmtvithanage/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pmtvithanage/pmtvithanage/output/github-snake.svg" />
@@ -86,6 +94,15 @@
 </picture>
 
 ---
+
+<div>
+  <img 
+    src="https://capsule-render.vercel.app/api?color=0:00FFB2,50:00DDA0,100:00AA88&height=100&section=footer&fontSize=30&type=waving&fontColor=0f0f0f&font=Fira+Code"
+    alt="footer" 
+    style="width: 100%; display: block;" 
+  />
+</div>
+
 
 <p align="center">
   P.M.T. Vithanage  
