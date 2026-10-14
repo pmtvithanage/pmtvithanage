@@ -17,7 +17,7 @@
 
 ## 👋 Hello, I'm P.M.T. Vithanage
 
-🎓 A second-year Computer Science undergraduate at the **University of Colombo School of Computing**, Sri Lanka 🇱🇰  
+🎓 A third-year Computer Science undergraduate at the **University of Colombo School of Computing**, Sri Lanka 🇱🇰  
 💻 Passionate about Full-Stack Web Development and problem-solving  
 🚀 Eager to build scalable applications and explore new technologies  
 
